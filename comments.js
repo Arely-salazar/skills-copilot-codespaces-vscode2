@@ -1,4 +1,3 @@
-//create web server
-const express = require('express');
-
-
+// create web server
+// 1. load modules
+var http = require('http');
